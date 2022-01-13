@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yopitn
+- 👀 I’m interested in Web Developer, to be precise in Front-End Developer.
+- 🌱 I’m currently learning Reach Js, PHP, and Node JS.
+- 💞️ I’m looking to collaborate on ...
+- 📫 If you want to collaborate with me, please contact me via email in my portfolio - yopitn.github.io
